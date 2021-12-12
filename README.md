@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DewanshiDewan
-- 🌱 Learning more about and studying: C++, Java, GameDev using SDL, JavaScript, Data Structures & Algorithms. 
+- 🌱 Learning more about and studying: GameDev using SDL, JavaScript, Data Structures & Algorithms, C++, Java. 
 - 📫 How to reach me: Dewanshi.Dewan@iiitb.ac.in
 - 😄 Pronouns: She/Her
 
