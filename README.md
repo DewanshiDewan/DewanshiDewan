@@ -1,5 +1,5 @@
 👋 Hi, I’m Dewanshi Dewan
-- 🌱 Learning more about and studying: GameDev using SDL, JavaScript, Data Structures & Algorithms, C++, Java. 
+- 🌱 Learning more about and studying: Android Development, Web3, GameDev using SDL, JavaScript, Data Structures & Algorithms, C++, Java. 
 - 📫 How to reach me: Dewanshi.Dewan@iiitb.ac.in
 - 😄 Pronouns: She/Her
 
